@@ -1,24 +1,24 @@
-# Python Automation & Data Extraction Portfolio
+# 🐍 Python Automation & Data Processing Portfolio
 
-Welcome to my Python Automation repository! This collection features production-ready automation scripts designed for real-world client workflows, web scraping, and data processing.
-
-## 🚀 Projects Included
-
-### 1. Web Scraper & Data Extractor (`web_scraper.py`)
-A robust web scraping tool built with Python to extract structured quotes, authors, and tags from live websites.
-
-* **Tech Stack:** Python, Requests, BeautifulSoup4, CSV
-* **Features:**
-  * Uses custom HTTP User-Agent headers to ensure reliable connections.
-  * Robust error handling for network failures or HTTP status issues.
-  * Automatically exports extracted data into a clean, structured `scraped_quotes.csv` file.
+Welcome to my Python Automation repository! This collection features production-ready scripts designed for web scraping, automated data cleaning, and workflow optimization.
 
 ---
 
-## 🛠️ How to Run Locally
+## 🛠️ Featured Projects
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Ali-hassnain-py/python-automation-portfolio.git
-   cd python-automation-portfolio
+### 1. Web Scraper & Data Extractor (`web_scraper.py`)
+- **Description**: Robust web scraping tool built with Python to extract structured quotes, authors, and tags from web sources into a clean CSV format.
+- **Tech Stack**: `requests`, `BeautifulSoup4`, `csv`
+- **Output**: `scraped_quotes.csv`
 
+---
+
+### 2. Automated CSV Data Cleaner (`data_cleaner.py`)
+- **Description**: Automated utility script designed to process messy raw CSV files. It removes extra spaces, normalizes text headers, drops empty rows, and eliminates duplicate records.
+- **Tech Stack**: Python Built-in (`csv`, `re`)
+- **Usage**:
+  ```bash
+  python data_cleaner.py
+## 👨‍💻 Contact & Hire Me
+- **Services Offered:** Web Scraping, Data Automation, CSV/Excel Processing, Python Scripting.
+- **Open for Freelance Projects on Upwork & Fiverr!**
