@@ -1,6 +1,6 @@
-# 🐍 Python Automation & Data Processing Portfolio
+# 🐍 Python Automation & Web Scraping Portfolio
 
-Welcome to my Python Automation repository! This collection features production-ready scripts designed for web scraping, automated data cleaning, and workflow optimization.
+Welcome to my Python Automation repository and Web Scraping! Helping E-commerce Brands Extract And Clean Data Automatically.
 
 ---
 
